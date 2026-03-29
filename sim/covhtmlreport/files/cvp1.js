@@ -1,0 +1,2 @@
+var g_data = {"18":["slave_1","slave_2","slave_3","slave_4"],"19":["write","read"],"20":["bytes_1","bytes_2","bytes_3"],"23":["slave_1","slave_2","slave_3","slave_4"],"24":["write","read"],"25":["bytes_1","bytes_2","bytes_3"],"28":["slave_1","slave_2","slave_3","slave_4"],"29":["write","read"],"30":["Pselx_1","Pselx_2","Pselx_4","Pselx_8"],"33":["slave_1","slave_2","slave_3","slave_4"],"34":["write","read"],"35":["Pselx_1","Pselx_2","Pselx_4","Pselx_8"]};
+processCoverpointsMapData(g_data);
